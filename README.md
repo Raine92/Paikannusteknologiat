@@ -102,6 +102,9 @@ Publisher (live):
 ```bash
 npm run start:live
 ```
+## Pitäisi näyttää tältä: 
+
+![GNSS Live Map](./frontend/assets/GNSS_livemap.png)
 
 
 ## Käyttö
