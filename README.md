@@ -154,6 +154,7 @@ publisher/saved_trips/
 - Oma MQTT-BROKER
 - Tallennuksen tietokantatuki (esim. SQLite/PostgreSQL).
 - Käyttöliittymään matkan tilan ja nopeuden visualisointi.
+- Luetaan UBX:n binäärikoodia NMEA sijaan
 
 ## Huomioita
 - Live mode vaatii UBLOX GNSS:n kytkettynä USB-porttiin
